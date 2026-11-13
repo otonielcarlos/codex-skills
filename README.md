@@ -16,8 +16,8 @@ Search precisely. Change only what is necessary. Validate according to risk. Rep
 
 I use Astra or Fable for complex planning, then Sol 6.1 or Opus 5.5 to implement well-defined tasks. I follow each provider's model guidance and use these skills to keep context and changes focused.
 
-This workflow has kept my $20/month subscription sufficient.
-
+**This workflow has kept my $20/month subscription sufficient.
+**
 ## Install
 
 Install all skills:
