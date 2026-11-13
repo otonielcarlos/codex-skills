@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Map"
+  short_description: "Find JS/TS symbols and trace file dependencies"
+  default_prompt: "Use $repo-map to locate the code involved in this task and inspect its dependencies before editing."
